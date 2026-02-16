@@ -1,0 +1,101 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "connect": "Connect",
+    "contact": "Contact Now"
+  },
+  "home": {
+    "hero": {
+      "title": "Welcome to SNF - Sandip Natural Farms",
+      "subtitle": "Premium Poultry Products & Solutions",
+      "cta": "Explore Products",
+      "secondary": "Learn More"
+    },
+    "about": {
+      "title": "About Us",
+      "description": "SNF - Sandipx Natural Farms is dedicated to providing premium poultry products and sustainable farming solutions. With years of experience, we offer the highest quality chicks, medicines, feed, and equipment.",
+      "highlight": "Committed to Excellence"
+    },
+    "features": {
+      "title": "Why Choose Us",
+      "quality": "Premium Quality",
+      "qualityDesc": "Best breed selection and health-checked poultry",
+      "support": "24/7 Support",
+      "supportDesc": "Expert guidance and customer support available",
+      "sustainable": "Sustainable Farming",
+      "sustainableDesc": "Environment-friendly and ethical farming practices",
+      "experience": "10+ Years Experience",
+      "experienceDesc": "Trusted by thousands of farmers nationwide",
+      "training": "Free Training",
+      "trainingDesc": "Comprehensive training programs for poultry farmers",
+      "delivery": "Fast Delivery",
+      "deliveryDesc": "Quick and reliable delivery across regions"
+    },
+    "social": {
+      "title": "Follow Us",
+      "instagram": "Instagram Followers",
+      "youtube": "YouTube Channel"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "About SNF - Sanoip Natural Farms",
+      "subtitle": "Our Journey in Poultry Excellence"
+    },
+    "owner": {
+      "title": "Meet Our Founder",
+      "message": "With a passion for sustainable poultry farming and a commitment to quality, our founder established SNF to provide farmers with premium products and expert guidance. Our mission is to transform the poultry industry through innovation and dedication."
+    },
+    "story": {
+      "title": "Our Story",
+      "description": "Founded over a decade ago, SNF has grown from a small operation to a trusted name in the poultry industry. We believe in sustainable practices, quality assurance, and farmer empowerment."
+    },
+    "why": {
+      "title": "Why Poultry Farming?",
+      "description": "Poultry farming offers sustainable livelihood opportunities. With proper guidance and quality inputs, it's a profitable and rewarding venture. SNF is here to support every step of your journey."
+    }
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Comprehensive Solutions for Modern Poultry Farming",
+    "categories": {
+      "chicks": "Poultry Chicks",
+      "medicines": "Medicines",
+      "feed": "Feed",
+      "equipment": "Equipment",
+      "training": "Training",
+      "husk": "Rice Husk"
+    },
+    "viewDetails": "View Details",
+    "description": "High quality poultry chicks for commercial and backyard farming"
+  },
+  "connect": {
+    "title": "Get In Touch",
+    "subtitle": "We'd love to hear from you",
+    "form": {
+      "name": "Full Name",
+      "phone": "Phone Number",
+      "email": "Email Address",
+      "message": "Message",
+      "submit": "Send Message",
+      "success": "Message sent successfully!",
+      "error": "Failed to send message"
+    },
+    "info": {
+      "phone": "Phone",
+      "email": "Email",
+      "address": "Location",
+      "hours": "Business Hours"
+    }
+  },
+  "footer": {
+    "company": "SNF - Sandip Natural Farms",
+    "tagline": "Premium Poultry Solutions",
+    "links": "Quick Links",
+    "legal": "Follow Us",
+    "copyright": "All rights reserved",
+    "year": "2024"
+  }
+}
